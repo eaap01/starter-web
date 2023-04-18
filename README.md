@@ -12,6 +12,10 @@ This is a new paragraph in the introduction section
 
 Sample website with plenty of files for demos
 
+new lines to "purpose" section
+
 ## Deployment
+
+this is a simple web project
 
 ## How To Contribute
